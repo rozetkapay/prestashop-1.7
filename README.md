@@ -1,1 +1,1 @@
-# prestashop-1.6
+# prestashop-1.7
